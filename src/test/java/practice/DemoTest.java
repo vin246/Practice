@@ -6,5 +6,7 @@ public class DemoTest {
 		System.out.println("Second Line from Oxygen ");
 		System.out.println("3rd line from oxygen");
 		System.out.println("Fourth Line from Photon");
+		int i = 100;
+		
 	}
 }
